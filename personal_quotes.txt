@@ -5,3 +5,4 @@ personal quotes add in master branch master
 
 new quotes added
 
+edit file on git hub 
